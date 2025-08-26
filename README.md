@@ -13,7 +13,7 @@ Here are some of the them that I’ve worked on:
 - [**ML Project 2 – Swiss AI Initiative**]  
   *Developed monitoring with Prometheus & Grafana, aggregated GitHub contributions, and contributed to Swiss AI LLM documentation & GUI. Repositery is private.*  
 
-- [**ML Project 1 – Feature Engineering & PCA**](https://github.com/CS-433/ml-project-1-pca-pitiful-clustering-algorithm)  
+- [**ML Project 1 – Feature Engineering & PCA**]  
   *Predicted heart disease risk using PCA, logistic regression, and feature engineering with custom evaluation metrics. EPFL repositery so it is private*  
 
 - [**Machine Learning for Finance (FIN-407)**](https://github.com/mirkorado/ML-Project)  
