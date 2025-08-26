@@ -16,7 +16,7 @@ Here are some of the them that I’ve worked on:
 - [**ML Project 1 – Feature Engineering & PCA**](https://github.com/CS-433/ml-project-1-pca-pitiful-clustering-algorithm)  
   *Predicted heart disease risk using PCA, logistic regression, and feature engineering with custom evaluation metrics.*  
 
-- [** Machine Learning for Finance (FIN-407)**](https://github.com/mirkorado/ML-Project)  
+- [**Machine Learning for Finance (FIN-407)**](https://github.com/mirkorado/ML-Project)  
   *Developed a deep neural network (ResidualMLP) to predict daily stock returns, engineered financial features from firm-level data, implemented multiple loss functions (Sharpe ratio optimization, regularized softmax, top-k selection), and analyzed portfolio performance over long-term datasets.* 
 
 ---
