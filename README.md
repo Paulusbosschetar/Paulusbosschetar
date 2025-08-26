@@ -22,6 +22,6 @@ Here are some of the them that I’ve worked on:
 ---
 
 ## ⚙️ Tech Stack  
-**Python, R, SQL** | scikit-learn, PyTorch, NumPy, pandas | Prometheus, Grafana | Portfolio Optimization, PCA, Supervised Learning  
+**Python, R, C and Matlab**
 
 ---
