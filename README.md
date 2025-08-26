@@ -10,8 +10,8 @@ Here are some of the them that I’ve worked on:
 - [**International Portfolio Diversification**](https://github.com/mulemule02/investments_project)  
   *Analyzed stock indices & currencies, built risk-parity and mean-variance portfolios, implemented momentum, reversal, and carry strategies.*  
 
-- [**ML Project 2 – Swiss AI Initiative**](https://github.com/CS-433/ml-project-2-api-adrien-paul-ilia)  
-  *Developed monitoring with Prometheus & Grafana, aggregated GitHub contributions, and contributed to Swiss AI LLM documentation & GUI.*  
+- [**ML Project 2 – Swiss AI Initiative**]  
+  *Developed monitoring with Prometheus & Grafana, aggregated GitHub contributions, and contributed to Swiss AI LLM documentation & GUI. Repositery is private.*  
 
 - [**ML Project 1 – Feature Engineering & PCA**](https://github.com/CS-433/ml-project-1-pca-pitiful-clustering-algorithm)  
   *Predicted heart disease risk using PCA, logistic regression, and feature engineering with custom evaluation metrics.*  
