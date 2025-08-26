@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**Paulusbosschetar/Paulusbosschetar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Paul, a Master's student in financial engineering at **EPFL**. I've worked on projects in **Machine Learning, Data Science, and Quantitative Finance**.  
+Here are some of the them that I’ve worked on:  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Selected Projects  
+
+- [**International Portfolio Diversification**](https://github.com/mulemule02/investments_project)  
+  *Analyzed stock indices & currencies, built risk-parity and mean-variance portfolios, implemented momentum, reversal, and carry strategies.*  
+
+- [**ML Project 2 – Swiss AI Initiative**](https://github.com/CS-433/ml-project-2-api-adrien-paul-ilia)  
+  *Developed monitoring with Prometheus & Grafana, aggregated GitHub contributions, and contributed to Swiss AI LLM documentation & GUI.*  
+
+- [**ML Project 1 – Feature Engineering & PCA**](https://github.com/CS-433/ml-project-1-pca-pitiful-clustering-algorithm)  
+  *Predicted heart disease risk using PCA, logistic regression, and feature engineering with custom evaluation metrics.*  
+
+- [** Machine Learning for Finance (FIN-407)**](https://github.com/mirkorado/ML-Project)  
+  *Developed a deep neural network (ResidualMLP) to predict daily stock returns, engineered financial features from firm-level data, implemented multiple loss functions (Sharpe ratio optimization, regularized softmax, top-k selection), and analyzed portfolio performance over long-term datasets.* 
+
+---
+
+## ⚙️ Tech Stack  
+**Python, R, SQL** | scikit-learn, PyTorch, NumPy, pandas | Prometheus, Grafana | Portfolio Optimization, PCA, Supervised Learning  
+
+---
